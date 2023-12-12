@@ -35,7 +35,7 @@ This project implements a Vendor Management System using Django and Django REST 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/vendor-management-system.git
+    git clone https://github.com/vinaychitirala/FatMug.git
     cd vendor-management-system
     ```
 
